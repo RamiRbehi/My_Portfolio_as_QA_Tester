@@ -3,12 +3,8 @@
 * ### [CV](https://drive.google.com/file/d/1lEhISUhLuNdVH1OG4qfC1CiD4zgyk58f/view?usp=sharing)
 * ### [Skills](#skills)
 * ### Certifications
-* 1
-* 2
-* 3
-* 4
-* 5
-* 6
+
+
 
 ## About me
 
