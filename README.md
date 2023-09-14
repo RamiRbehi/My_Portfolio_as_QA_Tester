@@ -6,8 +6,6 @@
 * ### [Certifications](#certifications)
 * ### Projects
 
-
-
 ## About me
 
 Experienced Administrative Assistant with a background in back office operations, seeking a career change to become a Software Tester. I have four years of administrative experience at a busy offshore company. Recently, I became a certified Software Tester after obtaining my ISTQB certification, and I am passionate about ensuring software quality and reliability. Additionally, I possess knowledge of full-stack development, enabling me to contribute effectively to the entire software development life cycle. I am excited to leverage my skills and enthusiasm in the field of software testing.
@@ -33,7 +31,6 @@ __Additional Skills__
 * Analytical analysis 
 * UI/UX Testing
 * Agile Methodologies (Scrum, Kanban)
-* Full-Stack Development
 
 __Relevant Soft Skills__
 * Skilled Collaborator
