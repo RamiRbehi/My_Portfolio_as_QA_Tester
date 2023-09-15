@@ -1,10 +1,10 @@
 # My_Portfolio_as_QA_Tester
-* ### About Me
-* ### [CV](#cv)
-* ### [Skills](#skills)
-* ### [Tools](#tools)
-* ### Projects
-* ### [Certifications](#certifications)
+* About Me
+* [CV](#cv)
+* [Skills](#skills)
+* [Tools](#tools)
+* [Projects](#projects)
+* [Certifications](#certifications)
 
 ## About me
 
@@ -63,7 +63,7 @@ __Postman__
 
 __Tesbirds QA and UX Software Crowdtesting__ : I get invitations to test real applications and websites 
 * I reported detected bug on the website "https://www.benjerry.co.uk/"
-  - Check these screenshots: [screenshot 1](https://drive.google.com/file/d/1xowSk-PzCQWaAMFYGEwCSPOLR8lCYryz/view?usp=sharing) [screenshot 2](https://drive.google.com/file/d/18FLud9PjHkxQ-P9kxzK3nxbXBCaMsxtp/view?usp=sharing) / [screencast](https://drive.google.com/file/d/1TjTJozxZ_Gl5ArQwN90BI51dMdoxfR7B/view?usp=sharing)
+  - Check these screenshots: [screenshot 1](https://drive.google.com/file/d/1xowSk-PzCQWaAMFYGEwCSPOLR8lCYryz/view?usp=sharing) / [screenshot 2](https://drive.google.com/file/d/18FLud9PjHkxQ-P9kxzK3nxbXBCaMsxtp/view?usp=sharing) / [screencast](https://drive.google.com/file/d/1TjTJozxZ_Gl5ArQwN90BI51dMdoxfR7B/view?usp=sharing)
 
 ## Certifications
 * [ISTQB® Certified Tester Foundation Level (CTFL)](https://credly.com/badges/f262c09c-2217-45c7-ad17-30536d077356)
