@@ -1,14 +1,18 @@
 # My_Portfolio_as_QA_Tester
 * ### About Me
-* ### [CV](https://drive.google.com/file/d/1lEhISUhLuNdVH1OG4qfC1CiD4zgyk58f/view?usp=sharing)
+* ### [CV](#cv)
 * ### [Skills](#skills)
 * ### [Tools](#tools)
-* ### [Certifications](#certifications)
 * ### Projects
+* ### [Certifications](#certifications)
 
 ## About me
 
 Experienced Administrative Assistant with a background in back office operations, seeking a career change to become a Software Tester. I have four years of administrative experience at a busy offshore company. Recently, I became a certified Software Tester after obtaining my ISTQB certification, and I am passionate about ensuring software quality and reliability. Additionally, I possess knowledge of full-stack development, enabling me to contribute effectively to the entire software development life cycle. I am excited to leverage my skills and enthusiasm in the field of software testing.
+
+## CV
+
+You can download my CV in [PDF format in my Google Drive](https://drive.google.com/file/d/1lEhISUhLuNdVH1OG4qfC1CiD4zgyk58f/view?usp=sharing)
 
 ## Skills
 __Manual Testing__
@@ -54,6 +58,12 @@ __Jira__
 __Postman__
 * Independently created and maintained a collection of API test cases in Postman.
 * Self-taught API testing skills using Postman for personal projects
+
+## Projects
+
+__Tesbirds QA and UX Software Crowdtesting__ : I get invitations to test real applications and websites 
+* I reported detected bug on the website "https://www.benjerry.co.uk/"
+  - Check these screenshots: [screenshot 1](https://drive.google.com/file/d/1xowSk-PzCQWaAMFYGEwCSPOLR8lCYryz/view?usp=sharing) [screenshot 2](https://drive.google.com/file/d/18FLud9PjHkxQ-P9kxzK3nxbXBCaMsxtp/view?usp=sharing) / [screencast](https://drive.google.com/file/d/1TjTJozxZ_Gl5ArQwN90BI51dMdoxfR7B/view?usp=sharing)
 
 ## Certifications
 * [ISTQB® Certified Tester Foundation Level (CTFL)](https://credly.com/badges/f262c09c-2217-45c7-ad17-30536d077356)
