@@ -65,6 +65,11 @@ __Tesbirds QA and UX Software Crowdtesting__ : I get invitations to test real ap
 * I reported detected bug on the website "https://www.benjerry.co.uk/"
   - Check these screenshots: [screenshot 1](https://drive.google.com/file/d/1xowSk-PzCQWaAMFYGEwCSPOLR8lCYryz/view?usp=sharing) / [screenshot 2](https://drive.google.com/file/d/18FLud9PjHkxQ-P9kxzK3nxbXBCaMsxtp/view?usp=sharing) / [screencast](https://drive.google.com/file/d/1TjTJozxZ_Gl5ArQwN90BI51dMdoxfR7B/view?usp=sharing)
 
+__[A demo e-commerce website](https://tutorialsninja.com/demo/index.php?route=common/home)__ was used to create demo test cases
+* Test case for checking that a user can add products to the shopping cart. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1YYGRt2OJSfouBePEHq1x15M59z3xNIja_AQE5SazgMU/edit?usp=sharing)
+* Test case for checking that a user can purchase chosen products. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1gknul2kfJHJAjmZ33zx5-AZ6M5Rj4bwx811XUXgjAzc/edit?usp=sharing)
+* Test case to check that a user can login to the website (Automated Testing method was used with Katalon Studio). Check
+
 ## Certifications
 * [ISTQB® Certified Tester Foundation Level (CTFL)](https://credly.com/badges/f262c09c-2217-45c7-ad17-30536d077356)
 * [Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/certificate/THGMNYB45RGT)
