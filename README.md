@@ -69,7 +69,6 @@ __Tesbirds QA and UX Software Crowdtesting__ : I get invitations to test real ap
 __[A demo e-commerce website](https://tutorialsninja.com/demo/index.php?route=common/home)__ was used to create demo test cases
 * Test case for checking that a user can add products to the shopping cart. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1YYGRt2OJSfouBePEHq1x15M59z3xNIja_AQE5SazgMU/edit?usp=sharing)
 * Test case for checking that a user can purchase chosen products. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1gknul2kfJHJAjmZ33zx5-AZ6M5Rj4bwx811XUXgjAzc/edit?usp=sharing)
-* Test case for checking that a user can login to the website (Automation Testing method was used with Katalon Studio). Check
 
 ## Certifications
 * [ISTQB® Certified Tester Foundation Level (CTFL)](https://credly.com/badges/f262c09c-2217-45c7-ad17-30536d077356)
