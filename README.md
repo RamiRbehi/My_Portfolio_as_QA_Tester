@@ -66,7 +66,7 @@ __Tesbirds QA and UX Software Crowdtesting__ : I get invitations to test real ap
   - Check these screenshots: [screenshot 1](https://drive.google.com/file/d/1xowSk-PzCQWaAMFYGEwCSPOLR8lCYryz/view?usp=sharing) / [screenshot 2](https://drive.google.com/file/d/18FLud9PjHkxQ-P9kxzK3nxbXBCaMsxtp/view?usp=sharing) / [screencast](https://drive.google.com/file/d/1TjTJozxZ_Gl5ArQwN90BI51dMdoxfR7B/view?usp=sharing)
   - Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1aN-IGsGLuax0FL_W47SktuVMe2q21RT_/view?usp=sharing)
 
-__[A demo e-commerce website](https://tutorialsninja.com/demo/index.php?route=common/home)__ was used to create demo test cases
+__A demo e-commerce [website](https://tutorialsninja.com/demo/index.php?route=common/home)__ was used to create demo test cases
 * Test case for checking that a user can add products to the shopping cart. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1YYGRt2OJSfouBePEHq1x15M59z3xNIja_AQE5SazgMU/edit?usp=sharing)
 * Test case for checking that a user can purchase chosen products. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1gknul2kfJHJAjmZ33zx5-AZ6M5Rj4bwx811XUXgjAzc/edit?usp=sharing)
 
