@@ -12,7 +12,7 @@ Experienced Administrative Assistant with a background in back office operations
 
 ## CV
 
-You can download my CV in [PDF format in my Google Drive](https://drive.google.com/file/d/1lEhISUhLuNdVH1OG4qfC1CiD4zgyk58f/view?usp=sharing)
+You can download my CV in [PDF format in my Google Drive](https://drive.google.com/file/d/1RLRHkiJLO6tx1KLQE6IvnuWZxSoDbQku/view?usp=sharing)
 
 ## Skills
 __Manual Testing__
