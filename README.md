@@ -1,5 +1,5 @@
 # My_Portfolio_as_QA_Tester
-* About Me
+* [About Me](#about_me)
 * [CV](#cv)
 * [Skills](#skills)
 * [Tools](#tools)
