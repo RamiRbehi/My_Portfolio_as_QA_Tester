@@ -72,6 +72,7 @@ __A demo e-commerce [website](https://tutorialsninja.com/demo/index.php?route=co
 
 ## Certifications
 * [ISTQB® Certified Tester Foundation Level (CTFL)](https://credly.com/badges/f262c09c-2217-45c7-ad17-30536d077356)
+* [Test Automation for Beginners (Selenium-Cypress-Playwright)](https://www.udemy.com/certificate/UC-acee538f-2864-4e1f-a55e-1189b336fbf9)
 * [Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/certificate/THGMNYB45RGT)
 * [Scrum Fundamentals Certified (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=995822)
 * [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/certificate/UC-4218df2f-97be-4002-9581-e15fce8cb7e4/)
