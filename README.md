@@ -8,13 +8,9 @@
 
 ## About me
 
-Experienced Administrative Assistant with a background in back office operations, seeking a career change to become a Software Tester. I have four years of administrative experience at a busy offshore company. Recently, I became a certified Software Tester after obtaining my ISTQB certification, and I am passionate about ensuring software quality and reliability. Additionally, I possess knowledge of full-stack development, enabling me to contribute effectively to the entire software development life cycle. I am excited to leverage my skills and enthusiasm in the field of software testing.
+Certified Software Tester with a passion for ensuring high-quality software. Strong analytical skills and a collaborative spirit. My goal is to apply my theoretical knowledge of automation tools and scripting languages to improve software lifecycle efficiency.
 
-## CV
-
-You can download my CV in [PDF format in my Google Drive](https://drive.google.com/file/d/1r1RvcM48DPooLZwhfuAKgv1gyhxAShUO/view?usp=sharing)
-
-## Skills
+## Technical Skills
 __Manual Testing__
 * can perform manual functional and usability testing of web applications
 * gained hands-on experience by testing applications created for educational purposes
